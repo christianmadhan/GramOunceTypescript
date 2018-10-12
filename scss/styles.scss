@@ -1,15 +1,7 @@
-$fontColor: #0091aa;
-$colorHeading: #be4a14;
-#content  // div with id: content
-{
-    color: $fontColor;
-}
-
-h2
-{
-    color: $colorHeading;
-}
-
-h1{
-    @extend h2;
+#lol {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  margin-top: 20%;
 }
